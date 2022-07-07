@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.third.uti.config.ThirdConfig,\
+  com.third.uti.config.DictDataRefreshListener
